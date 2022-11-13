@@ -7,7 +7,7 @@ return [
      * The google-fonts:fetch command will prefetch these fonts.
      */
     'fonts' => [
-        'default' => 'https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap',
+        'default' => 'https://fonts.googleapis.com/css2?family=Noto+Sans+TC',
     ],
 
     /*
